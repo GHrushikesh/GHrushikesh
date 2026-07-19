@@ -1,10 +1,14 @@
+<!-- Note: All components are rendered dynamically in real-time. No local assets required. -->
+
 <div align="center">
-  <!-- Custom Premium Banner -->
-  <img src="./assets/hero.svg" width="900" alt="Hrushikesh Gangajadiya Banner" />
+  <!-- Waving Gradient Banner (Green to Blue) -->
+  <a href="https://github.com/GHrushikesh">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2ea043,0969da&height=180&section=header&text=Hello!%20I'm%20Hrushikesh&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20Student%20%7C%20Software%20Engineer&descSize=18&descColor=ffffff&descAlignY=65" width="100%" alt="Hello! I'm Hrushikesh" />
+  </a>
   
-  <br /><br />
+  <br />
   
-  <!-- Interactive Typing Headline (Cursive personal style) -->
+  <!-- Typing Animations (Cursive Caveat Font) -->
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2ea043&center=true&vCenter=true&width=900&height=44&lines=B.Tech+student+exploring+the+intersection+of+AI+and+software+engineering.;git+commit+-m+%22if+it+works%2C+don't+touch+it%22" alt="Typing Headline" />
 </div>
 
@@ -70,22 +74,31 @@
 
 ### 📂 Featured Projects
 
-<table align="center" width="100%" border="0" cellpadding="5" cellspacing="0">
+<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
-    <td align="center" width="33%">
-      <a href="https://github.com/GHrushikesh/code-atlas">
-        <img src="./assets/project-code-atlas.svg" width="100%" alt="Code Atlas Project Card" />
-      </a>
+    <!-- Project 1 -->
+    <td width="33%" valign="top">
+      <h4>🌐 <a href="https://github.com/GHrushikesh/code-atlas">Code Atlas</a></h4>
+      <p>Interactive codebase dependency visualizer. Maps architecture and module relations dynamically.</p>
+      <br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/NetworkX-555555?style=flat-square" alt="NetworkX" />
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/GHrushikesh/smart-git-analyzer">
-        <img src="./assets/project-smart-git-analyzer.svg" width="100%" alt="Smart Git Analyzer Project Card" />
-      </a>
+    <!-- Project 2 -->
+    <td width="33%" valign="top">
+      <h4>📊 <a href="https://github.com/GHrushikesh/smart-git-analyzer">Smart Git Analyzer</a></h4>
+      <p>Automated repository scanner that analyzes commit history, patterns, and developer productivity.</p>
+      <br />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
     </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/GHrushikesh/database-visualizer">
-        <img src="./assets/project-database-visualizer.svg" width="100%" alt="Database Visualizer Project Card" />
-      </a>
+    <!-- Project 3 -->
+    <td width="33%" valign="top">
+      <h4>🗄️ <a href="https://github.com/GHrushikesh/database-visualizer">Database Visualizer</a></h4>
+      <p>Real-time schema visualizer that renders entity relations and indexes for SQL and NoSQL databases.</p>
+      <br />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
     </td>
   </tr>
 </table>
@@ -122,15 +135,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hrushikesh-gangajadiya/" target="_blank" rel="noreferrer">
-    <img src="./assets/social-linkedin.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://hrushikesh-gangajadiya.vercel.app/" target="_blank" rel="noreferrer">
-    <img src="./assets/social-portfolio.svg" width="40" height="40" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:hgangajadiya@gmail.com">
-    <img src="./assets/social-email.svg" width="40" height="40" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
