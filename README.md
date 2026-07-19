@@ -46,38 +46,33 @@
 ### 🛠️ Tech Stack
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <!-- Languages -->
-    <td valign="top" width="33%">
-      <h4>💻 Languages</h4>
-      <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" /></a>
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" /></a>
-      <a href="https://java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" /></a>
-      <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" /></a>
-      <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" /></a>
-      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40" height="40" /></a>
-    </td>
-    
-    <!-- Databases & Cloud -->
-    <td valign="top" width="33%">
-      <h4>🗄️ Databases &amp; Cloud</h4>
-      <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" /></a>
-      <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" /></a>
-      <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" /></a>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" /></a>
-      <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" /></a>
-    </td>
-    
-    <!-- Tools & Libraries -->
-    <td valign="top" width="33%">
-      <h4>🛠️ Tools &amp; Libraries</h4>
-      <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /></a>
-      <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
-      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" /></a>
-      <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="40" height="40" /></a>
-      <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40" /></a>
-    </td>
-  </tr>
+<tr>
+<td valign="top" width="33%">
+<h4>💻 Languages</h4>
+<a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" /></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" /></a>
+<a href="https://java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" /></a>
+<a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" /></a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" /></a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40" height="40" /></a>
+</td>
+<td valign="top" width="33%">
+<h4>🗄️ Databases &amp; Cloud</h4>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" /></a>
+<a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" /></a>
+<a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" /></a>
+<a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" /></a>
+</td>
+<td valign="top" width="33%">
+<h4>🛠️ Tools &amp; Libraries</h4>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /></a>
+<a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
+<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" /></a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="40" height="40" /></a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40" /></a>
+</td>
+</tr>
 </table>
 
 <br />
