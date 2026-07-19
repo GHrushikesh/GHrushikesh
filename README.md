@@ -3,7 +3,7 @@
 <div align="center">
   <!-- Waving Gradient Banner (Green to Blue) -->
   <a href="https://github.com/GHrushikesh">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2ea043,0969da&height=180&section=header&text=Hello!%20I'm%20Hrushikesh&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20Student%20%7C%20Software%20Engineer&descSize=18&descColor=ffffff&descAlignY=65" width="100%" alt="Hello! I'm Hrushikesh" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0969da&height=180&section=header&text=Hello!%20I'm%20Hrushikesh&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=B.Tech%20Student%20%7C%20Software%20Engineer&descSize=18&descColor=ffffff&descAlignY=65" width="100%" alt="Hello! I'm Hrushikesh" />
   </a>
   
   <br />
