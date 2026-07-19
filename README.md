@@ -16,28 +16,29 @@
 
 ---
 
-### ⚡ About Me
-
-<table width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <td valign="top" width="55%">
-      <p>I'm a <strong>Computer Engineering student</strong> passionate about building developer tools and solving real software engineering problems. I enjoy learning by building, exploring system design, and creating projects that are practical, scalable, and easy to understand.</p>
-      <p>🌱 &nbsp;I'm currently learning <strong>Data Structures &amp; Algorithms, System Design, and Software Architecture</strong>.</p>
-      <p>⚡ &nbsp;Fun fact: <strong>I enjoy solving problems more than collecting certificates.</strong></p>
-      <p>🎯 <strong>Career Goal:</strong> Build software that top product-based companies like Microsoft, Google, and Amazon would appreciate for its engineering quality rather than its technology stack.</p>
-    </td>
-    <td valign="top" width="45%">
-      <h4>🚀 Current Focus</h4>
-      <ul>
-        <li>📚 <strong>Data Structures &amp; Algorithms</strong></li>
-        <li>🛠️ <strong>Software Engineering</strong></li>
-        <li>🏗️ <strong>System Design</strong></li>
-        <li>💻 <strong>Developer Tools</strong></li>
-        <li>🤖 <strong>Artificial Intelligence</strong></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+> [!TIP]
+> ### ⚡ About Me
+> 
+> <table width="100%" border="0" cellpadding="10" cellspacing="0">
+> <tr>
+> <td valign="top" width="55%">
+> <p>I'm a <strong>Computer Engineering student</strong> passionate about building developer tools and solving real software engineering problems. I enjoy learning by building, exploring system design, and creating projects that are practical, scalable, and easy to understand.</p>
+> <p>🌱 &nbsp;I'm currently learning <strong>Data Structures &amp; Algorithms, System Design, and Software Architecture</strong>.</p>
+> <p>⚡ &nbsp;Fun fact: <strong>I enjoy solving problems more than collecting certificates.</strong></p>
+> <p>🎯 <strong>Career Goal:</strong> Build software that top product-based companies like Microsoft, Google, and Amazon would appreciate for its engineering quality rather than its technology stack.</p>
+> </td>
+> <td valign="top" width="45%">
+> <h4>🚀 Current Focus</h4>
+> <ul>
+> <li>📚 <strong>Data Structures &amp; Algorithms</strong></li>
+> <li>🛠️ <strong>Software Engineering</strong></li>
+> <li>🏗️ <strong>System Design</strong></li>
+> <li>💻 <strong>Developer Tools</strong></li>
+> <li>🤖 <strong>Artificial Intelligence</strong></li>
+> </ul>
+> </td>
+> </tr>
+> </table>
 
 <br />
 
@@ -79,36 +80,36 @@
 
 ---
 
-### 📂 Featured Projects
-
-<table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
-  <tr>
-    <!-- Project 1 -->
-    <td width="33%" valign="top">
-      <h4>🌐 <a href="https://github.com/GHrushikesh/code-atlas">Code Atlas</a></h4>
-      <p>Interactive codebase dependency visualizer. Maps architecture and module relations dynamically.</p>
-      <br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/NetworkX-555555?style=flat-square" alt="NetworkX" />
-    </td>
-    <!-- Project 2 -->
-    <td width="33%" valign="top">
-      <h4>📊 <a href="https://github.com/GHrushikesh/smart-git-analyzer">Smart Git Analyzer</a></h4>
-      <p>Automated repository scanner that analyzes commit history, patterns, and developer productivity.</p>
-      <br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-    </td>
-    <!-- Project 3 -->
-    <td width="33%" valign="top">
-      <h4>🗄️ <a href="https://github.com/GHrushikesh/database-visualizer">Database Visualizer</a></h4>
-      <p>Real-time schema visualizer that renders entity relations and indexes for SQL and NoSQL databases.</p>
-      <br />
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-    </td>
-  </tr>
-</table>
+> [!NOTE]
+> ### 📂 Featured Projects
+> 
+> <table align="center" width="100%" border="0" cellpadding="10" cellspacing="0">
+> <tr>
+> <!-- Project 1 -->
+> <td width="33%" valign="top">
+> <h4>🌐 <a href="https://github.com/GHrushikesh/code-atlas">Code Atlas</a></h4>
+> <p>Interactive codebase dependency visualizer. Maps architecture and module relations dynamically.</p>
+> <br />
+> <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="30" height="30" /></a>
+> </td>
+> <!-- Project 2 -->
+> <td width="33%" valign="top">
+> <h4>📊 <a href="https://github.com/GHrushikesh/smart-git-analyzer">Smart Git Analyzer</a></h4>
+> <p>Automated repository scanner that analyzes commit history, patterns, and developer productivity.</p>
+> <br />
+> <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="30" height="30" /></a>
+> <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="30" height="30" /></a>
+> </td>
+> <!-- Project 3 -->
+> <td width="33%" valign="top">
+> <h4>🗄️ <a href="https://github.com/GHrushikesh/database-visualizer">Database Visualizer</a></h4>
+> <p>Real-time schema visualizer that renders entity relations and indexes for SQL and NoSQL databases.</p>
+> <br />
+> <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="30" height="30" /></a>
+> <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="30" height="30" /></a>
+> </td>
+> </tr>
+> </table >
 
 <br />
 
