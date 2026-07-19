@@ -47,30 +47,35 @@
 
 <table width="100%" border="0" cellpadding="10" cellspacing="0">
   <tr>
+    <!-- Languages -->
     <td valign="top" width="33%">
       <h4>💻 Languages</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+      <a href="https://python.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=py" alt="Python" width="40" height="40" /></a>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40" /></a>
+      <a href="https://java.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="40" height="40" /></a>
+      <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="40" height="40" /></a>
+      <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="40" height="40" /></a>
+      <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="40" height="40" /></a>
     </td>
+    
+    <!-- Databases & Cloud -->
     <td valign="top" width="33%">
       <h4>🗄️ Databases &amp; Cloud</h4>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40" /></a>
+      <a href="https://mongodb.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40" /></a>
+      <a href="https://firebase.google.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="40" height="40" /></a>
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40" /></a>
+      <a href="https://vercel.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="40" height="40" /></a>
     </td>
+    
+    <!-- Tools & Libraries -->
     <td valign="top" width="33%">
       <h4>🛠️ Tools &amp; Libraries</h4>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /></a>
+      <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
+      <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" /></a>
+      <a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="40" height="40" /></a>
+      <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40" /></a>
     </td>
   </tr>
 </table>
@@ -142,15 +147,15 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hrushikesh-gangajadiya/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" height="50" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hrushikesh-gangajadiya.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" width="50" height="50" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hgangajadiya@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50" />
   </a>
 </div>
 
