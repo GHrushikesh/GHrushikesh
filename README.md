@@ -69,8 +69,8 @@
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40" /></a>
 <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="40" height="40" /></a>
-<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="40" height="40" /></a>
-<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=pandas" alt="pandas" width="40" height="40" /></a>
+<a href="https://numpy.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /></a>
+<a href="https://pandas.pydata.org" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" /></a>
 </td>
 </tr>
 </table>
@@ -146,7 +146,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hrushikesh-gangajadiya.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=chrome" alt="Portfolio" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Portfolio" width="50" height="50" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hgangajadiya@gmail.com" target="_blank" rel="noopener noreferrer">
