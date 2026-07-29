@@ -132,7 +132,7 @@
 
 <!-- Contribution Graph (Green + Blue themed) -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GHrushikesh&bg_color=00000000&color=2ea043&line=58a6ff&point=2ea043&area=true&hide_border=true" alt="Hrushikesh's Contribution Graph" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GHrushikesh&theme=github-compact&v=2" />
 </p>
 
 <br />
