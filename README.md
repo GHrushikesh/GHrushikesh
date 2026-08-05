@@ -131,25 +131,11 @@
 <br />
 
 <!-- Contribution Graph (Green + Blue themed) -->
-<!-- GitHub Streak -->
 <p align="center">
-  <img
-    width="100%"
-    src="https://streak-stats.demolab.com?user=GHrushikesh&theme=tokyonight&hide_border=true&background=00000000&ring=2ea043&fire=2ea043&currStreakLabel=58a6ff"
-    alt="GitHub Streak"
-  />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GHrushikesh&theme=github-compact&v=2" />
 </p>
 
 <br />
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=GHrushikesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
 
 ---
 
