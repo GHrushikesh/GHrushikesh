@@ -131,8 +131,13 @@
 <br />
 
 <!-- Contribution Graph (Green + Blue themed) -->
+<!-- Contribution Snake -->
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GHrushikesh&theme=github-compact&v=2" />
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/GHrushikesh/GHrushikesh/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
 <br />
